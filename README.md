@@ -8,7 +8,7 @@
     </br>
 </div>
     
-    ![GitHub contributors](https://img.shields.io/github/contributors/AND-Dev-Team/AND-Develop-Center)
+    [![GitHub contributors](https://img.shields.io/github/contributors/AND-Dev-Team/AND-Develop-Center)]
 
     
 ## 获取AND Develop Center
