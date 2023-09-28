@@ -18,8 +18,11 @@
     </picture>
   </a>
 </p>
+
 2. 下载Files中Microsoft Store文件夹中的sideload.msix。
+
 3. 下载Files中Android文件夹中的apk文件。
+
 4. 访问and-dev-team.github.io，并安装为应用。
 
 
