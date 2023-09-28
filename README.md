@@ -5,9 +5,10 @@
     <p align="center">
         <img src="https://and-dev-team.github.io/img/team3.svg"/>
     </p>
+    <img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/:user/:repo">
     </br>
 </div>
-[![GitHub contributors](https://img.shields.io/github/contributors/AND-Dev-Team/AND-Develop-Center)]
+
 
     
 ## 获取AND Develop Center
