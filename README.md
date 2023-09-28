@@ -8,8 +8,8 @@
     </br>
 </div>
 ## 获取AND Develop Center
-1.从Microsoft Store获取。
-<p align="left">
+
+1.从Microsoft Store获取。<p align="left">
   <a title="Get from Microsoft Store" href="https://apps.microsoft.com/store/detail/and-develop-center/9MZN3SPB8NS5" target="_blank">
     <picture>
       <source srcset="https://get.microsoft.com/images/en-US%20light.svg" media="(prefers-color-scheme: dark)" />
