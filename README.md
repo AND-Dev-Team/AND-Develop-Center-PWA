@@ -7,11 +7,9 @@
     </p>
     </br>
 </div>
-    [![GitHub release (latest by date)](https://img.shields.io/github/v/release/AND-Dev-Team/AND-Develop-Center (https://github.com/AND-Dev-Team/AND-Develop-Center/releases) 
-    ![GitHub Release Date](https://img.shields.io/github/release-date/AND-Dev-Team/AND-Develop-Center) 
-    ![GitHub All Releases](https://img.shields.io/github/downloads/AND-Dev-Team/AND-Develop-Center/total) 
-    ![GitHub stars](https://img.shields.io/github/stars/AND-Dev-Team/AND-Develop-Center?style=flat) 
-    ![GitHub forks](https://img.shields.io/github/forks/AND-Dev-Team/AND-Develop-Center)
+    
+    ![GitHub contributors](https://img.shields.io/github/contributors/AND-Dev-Team/AND-Develop-Center)
+
     
 ## 获取AND Develop Center
 
