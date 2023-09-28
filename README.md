@@ -7,8 +7,8 @@
     </p>
     </br>
 </div>
-
-从Microsoft Store获取
+## 获取AND Develop Center
+1.从Microsoft Store获取。
 <p align="left">
   <a title="Get from Microsoft Store" href="https://apps.microsoft.com/store/detail/and-develop-center/9MZN3SPB8NS5" target="_blank">
     <picture>
@@ -18,3 +18,8 @@
     </picture>
   </a>
 </p>
+2. 下载Files中Microsoft Store文件夹中的sideload.msix。
+3. 下载Files中Android文件夹中的apk文件。
+4. 访问and-dev-team.github.io，并安装为应用。
+
+
