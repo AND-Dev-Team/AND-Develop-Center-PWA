@@ -5,7 +5,10 @@
     <p align="center">
         <img src="https://and-dev-team.github.io/img/team3.svg"/>
     </p>
-    <img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/:user/:repo">
+    <img alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/AND-Dev-Team/AND-Develop-Center">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/AND-Dev-Team/AND-Develop-Center">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AND-Dev-Team/AND-Develop-Center">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/AND-Dev-Team/AND-Develop-Center">
     </br>
 </div>
 
