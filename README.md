@@ -1,6 +1,6 @@
 <div align="center">
     <img align="center" src="https://and-dev-team.github.io/img/team.svg" alt="logo" width="200">
-    <h1 align="center">AND Develop Center</h1>
+    <h1 align="center">AND Develop Center (PWA) </h1>
     <p align="center">AND Develop Team 基于 Microsoft Edge 的 PWA 软件</p>
     <p align="center">
         <img src="https://and-dev-team.github.io/img/team3.svg"/>
